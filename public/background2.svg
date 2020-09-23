@@ -1,0 +1,407 @@
+<svg id="Background-2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1013.493" viewBox="0 0 1920 1013.493">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.483" y1="0.033" x2="0.564" y2="0.885" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cfd7ff"/>
+      <stop offset="1" stop-color="#fcfdff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.259" y1="0.033" x2="0.659" y2="0.761" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9edff"/>
+      <stop offset="1" stop-color="#cfd7ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Caminho_325" data-name="Caminho 325" d="M0,0H1920V817.579L0,917.979Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Retângulo_40" x="688.5" y="508.5" width="1268" height="919" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="420.93" height="209.91" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="425.928" height="206.023" fill="none"/>
+    </clipPath>
+    <filter id="Caminho_11" x="1261.592" y="927.216" width="422.823" height="111.173" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur-2"/>
+      <feFlood flood-color="#1e0d8d" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_12" x="1262.115" y="924.533" width="421.147" height="85.214" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur-3"/>
+      <feFlood flood-color="#e1761a" flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_2" x="1129.415" y="337.362" width="1130.074" height="830.802" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect width="508.623" height="464.3" fill="none"/>
+    </clipPath>
+    <filter id="Retângulo_14" x="1492.362" y="501.608" width="94.759" height="94.759" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10.5" result="blur-5"/>
+      <feFlood flood-color="#2b65f0" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 433 577">
+      <image width="433" height="577" xlink:href="data:image/jpeg;base64,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"/>
+    </pattern>
+  </defs>
+  <path id="Caminho_324" data-name="Caminho 324" d="M0,0H1920V902.647L0,1013.493Z" fill="url(#linear-gradient-2)"/>
+  <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" transform="translate(0 91)" clip-path="url(#clip-path)">
+    <g id="Grupo_150" data-name="Grupo 150" transform="translate(208 94.478)">
+      <g id="UI_Visão_geral" data-name="UI Visão geral" transform="translate(629 471.243)">
+        <g id="BG" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -837, -656.72)" filter="url(#Retângulo_40)">
+            <rect id="Retângulo_40-2" data-name="Retângulo 40" width="971" height="622" transform="translate(837 657)" fill="#ebecf0"/>
+          </g>
+          <g id="Header" transform="translate(0 0)">
+            <rect id="Retângulo_41" data-name="Retângulo 41" width="971" height="48" transform="translate(0 0.278)" fill="#fff"/>
+            <g id="Uperttech_Logo" data-name="Uperttech Logo" transform="translate(470.006 15.319)">
+              <path id="União_1" data-name="União 1" d="M16.6,19a1.267,1.267,0,0,1-1.263-1.271V13.675a1.273,1.273,0,0,1,.086-.461l-1.432-1.44a1.254,1.254,0,0,1-.459.086h-1.5a1.267,1.267,0,0,1-1.263-1.271V9.258A1.267,1.267,0,0,1,12.03,7.987h1.5A1.267,1.267,0,0,1,14.8,9.258v1.331a1.276,1.276,0,0,1-.032.284l1.554,1.563A1.26,1.26,0,0,1,16.6,12.4h5.353a1.26,1.26,0,0,1,.315.04L24.1,10.6a1.279,1.279,0,0,1-.04-.317V6.172A1.267,1.267,0,0,1,25.323,4.9h5.413A1.267,1.267,0,0,1,32,6.172v4.115a1.267,1.267,0,0,1-1.263,1.271H25.323a1.255,1.255,0,0,1-.429-.075l-1.751,1.762a1.276,1.276,0,0,1,.075.431v4.054A1.267,1.267,0,0,1,21.955,19Zm9.744-1.21a1.267,1.267,0,0,1-1.263-1.271V13.978a1.267,1.267,0,0,1,1.263-1.271h2.346a1.267,1.267,0,0,1,1.263,1.271v2.541a1.267,1.267,0,0,1-1.263,1.271ZM1.263,13.917A1.267,1.267,0,0,1,0,12.646V8.592A1.267,1.267,0,0,1,1.263,7.322H6.677a1.257,1.257,0,0,1,.377.058l1.87-1.819A1.271,1.271,0,0,1,8.9,5.325V1.271A1.267,1.267,0,0,1,10.165,0h5.414a1.267,1.267,0,0,1,1.263,1.271V5.325a1.278,1.278,0,0,1-.078.44l1.264,1.272a1.254,1.254,0,0,1,.438-.078h1.5a1.267,1.267,0,0,1,1.263,1.271V9.56a1.267,1.267,0,0,1-1.263,1.271h-1.5A1.267,1.267,0,0,1,17.2,9.56V8.229a1.28,1.28,0,0,1,.037-.307L15.884,6.558a1.259,1.259,0,0,1-.305.037H10.165a1.253,1.253,0,0,1-.5-.1L7.885,8.221a1.278,1.278,0,0,1,.055.371v4.054a1.267,1.267,0,0,1-1.263,1.271ZM3.308,5.93A1.267,1.267,0,0,1,2.045,4.659V2.118A1.267,1.267,0,0,1,3.308.847H5.654A1.267,1.267,0,0,1,6.917,2.118V4.659A1.267,1.267,0,0,1,5.654,5.93Z" transform="translate(-0.006 -0.04)" fill="#f0691b"/>
+            </g>
+            <g id="Grupo_45" data-name="Grupo 45" transform="translate(94.697 16.711)">
+              <g id="Grupo_44" data-name="Grupo 44" transform="translate(0 0)">
+                <g id="Grupo_36" data-name="Grupo 36">
+                  <rect id="Retângulo_58" data-name="Retângulo 58" width="23" height="21" rx="6" transform="translate(0.303 -0.433)" fill="#4770f6"/>
+                  <rect id="Retângulo_59" data-name="Retângulo 59" width="9" height="9" rx="1" transform="translate(7.303 5.567)" fill="#fff"/>
+                </g>
+                <rect id="Retângulo_60" data-name="Retângulo 60" width="44" height="5" transform="translate(35.303 8.567)" fill="#5275f1"/>
+              </g>
+              <g id="Grupo_43" data-name="Grupo 43" transform="translate(92.609 0)">
+                <g id="Grupo_39" data-name="Grupo 39" transform="translate(0)">
+                  <rect id="Retângulo_58-2" data-name="Retângulo 58" width="23" height="21" rx="6" transform="translate(-0.306 -0.433)" fill="#f6a447"/>
+                  <rect id="Retângulo_59-2" data-name="Retângulo 59" width="9" height="9" rx="1" transform="translate(6.694 5.567)" fill="#fff"/>
+                </g>
+                <path id="Caminho_20" data-name="Caminho 20" d="M0,0H36.651V5.553H0Z" transform="translate(28.205 8.478)" fill="#d2d2d2"/>
+              </g>
+              <g id="Grupo_42" data-name="Grupo 42" transform="translate(172.684 0)">
+                <g id="Grupo_40" data-name="Grupo 40" transform="translate(0)">
+                  <rect id="Retângulo_58-3" data-name="Retângulo 58" width="23" height="21" rx="6" transform="translate(-0.381 -0.433)" fill="#b647f6"/>
+                  <rect id="Retângulo_59-3" data-name="Retângulo 59" width="9" height="9" rx="1" transform="translate(6.619 5.567)" fill="#fff"/>
+                </g>
+                <path id="Caminho_22" data-name="Caminho 22" d="M0,0H32.819V5.553H0Z" transform="translate(29.206 8.478)" fill="#d2d2d2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect id="Retângulo_42" data-name="Retângulo 42" width="267" height="322" transform="translate(97 132.278)" fill="#fff"/>
+        <rect id="Retângulo_47" data-name="Retângulo 47" width="163" height="76" transform="translate(710 460.278)" fill="#e0e0e3"/>
+        <g id="Receita" transform="translate(373.219 132.298)">
+          <rect id="Retângulo_43" data-name="Retângulo 43" width="500" height="322" transform="translate(-0.219 -0.019)" fill="#fff"/>
+          <g id="Grupo_22" data-name="Grupo 22" transform="translate(20.889 57.097)">
+            <g id="Grupo_21" data-name="Grupo 21" transform="translate(31.034 2.945)">
+              <g id="Repetição_de_grade_3" data-name="Repetição de grade 3" clip-path="url(#clip-path-2)">
+                <g transform="translate(-3146.5 1461)">
+                  <line id="Linha_4" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3146.5 1502)">
+                  <line id="Linha_4-2" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3146.5 1543)">
+                  <line id="Linha_4-3" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3146.5 1584)">
+                  <line id="Linha_4-4" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3146.5 1625)">
+                  <line id="Linha_4-5" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3146.5 1666)">
+                  <line id="Linha_4-6" data-name="Linha 4" x2="758" transform="translate(3146.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+              </g>
+              <g id="Repetição_de_grade_4" data-name="Repetição de grade 4" transform="translate(10.829 0.278)" clip-path="url(#clip-path-3)">
+                <g transform="translate(-3166 1460.5)">
+                  <line id="Linha_5" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3094 1460.5)">
+                  <line id="Linha_5-2" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-3022 1460.5)">
+                  <line id="Linha_5-3" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-2950 1460.5)">
+                  <line id="Linha_5-4" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-2878 1460.5)">
+                  <line id="Linha_5-5" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+                <g transform="translate(-2806 1460.5)">
+                  <line id="Linha_5-6" data-name="Linha 5" y2="371" transform="translate(3166.5 -1460.5)" fill="none" stroke="#f5f5f5" stroke-width="2"/>
+                </g>
+              </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -1231.11, -846.12)" filter="url(#Caminho_11)">
+              <path id="Caminho_11-2" data-name="Caminho 11" d="M3166.957-1230.154s22.6-62.592,45.205-58.245,21.733,59.984,40.859,63.461,27.819-35.643,51.291-31.3,17.387,36.512,39.12,39.12,32.166-17.387,38.25-17.387,4.347.87,12.171,0,20.864-70.416,37.381-69.547,25.211,18.256,33.035,19.995,15.648-7.824,32.165,6.085,10.432,19.125,21.733,21.733,25.163-31.3,48.635-21.733" transform="translate(-1893.45 2240.27)" fill="none" stroke="#1e0d8d" stroke-width="3"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -1231.11, -846.12)" filter="url(#Caminho_12)">
+              <path id="Caminho_12-2" data-name="Caminho 12" d="M3166.957-1252.3s29.388-21.6,44.306-20.576,31.378,25.206,43.209,25.206,25.72-50.926,46.81-50.926,18.518,10.8,33.95,14.4,20.062.514,28.292,11.317,11.317,15.432,25.206,16.461,25.72-26.234,34.979-24.177,13.889-5.658,18.518-6.173,20.576-22.119,34.979-22.119,28.292,26.749,42.7,28.292,32.823-24.837,46.2-25.866" transform="translate(-1893.45 2242.42)" fill="none" stroke="#e1761a" stroke-width="3"/>
+            </g>
+            <g id="Grupo_24" data-name="Grupo 24" transform="translate(0 0)">
+              <rect id="Retângulo_51" data-name="Retângulo 51" width="13" height="9" transform="translate(-0.108 -0.116)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52" data-name="Retângulo 52" width="13" height="9" transform="translate(-0.108 -0.116)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-2" data-name="Retângulo 52" width="13" height="9" transform="translate(-0.108 22.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-3" data-name="Retângulo 52" width="13" height="8" transform="translate(-0.108 45.883)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-4" data-name="Retângulo 52" width="16" height="9" transform="translate(-0.108 67.883)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-5" data-name="Retângulo 52" width="19" height="9" transform="translate(-0.108 90.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-6" data-name="Retângulo 52" width="19" height="9" transform="translate(-0.108 113.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-7" data-name="Retângulo 52" width="19" height="9" transform="translate(-0.108 136.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-8" data-name="Retângulo 52" width="16" height="9" transform="translate(-0.108 159.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-9" data-name="Retângulo 52" width="11" height="9" transform="translate(-0.108 182.884)" fill="#f1f1f1"/>
+              <rect id="Retângulo_52-10" data-name="Retângulo 52" width="6" height="8" transform="translate(-0.108 205.884)" fill="#f1f1f1"/>
+            </g>
+            <g id="Grupo_23" data-name="Grupo 23" transform="translate(31.333 229.781)">
+              <rect id="Retângulo_53" data-name="Retângulo 53" width="26" height="11" transform="translate(-0.442 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-2" data-name="Retângulo 53" width="25" height="11" transform="translate(43.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-3" data-name="Retângulo 53" width="25" height="11" transform="translate(86.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-4" data-name="Retângulo 53" width="24" height="11" transform="translate(130.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-5" data-name="Retângulo 53" width="25" height="11" transform="translate(173.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-6" data-name="Retângulo 53" width="25" height="11" transform="translate(216.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-7" data-name="Retângulo 53" width="25" height="11" transform="translate(259.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-8" data-name="Retângulo 53" width="25" height="11" transform="translate(302.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-9" data-name="Retângulo 53" width="25" height="11" transform="translate(346.558 0.103)" fill="#f2f2f2"/>
+              <rect id="Retângulo_53-10" data-name="Retângulo 53" width="25" height="11" transform="translate(389.558 0.103)" fill="#f2f2f2"/>
+            </g>
+          </g>
+          <g id="Grupo_27" data-name="Grupo 27" transform="translate(20.89 21.585)">
+            <g id="Grupo_25" data-name="Grupo 25" transform="translate(339.797 2.785)">
+              <rect id="Retângulo_49" data-name="Retângulo 49" width="10" height="7" transform="translate(0.094 1.61)" fill="#575dd5"/>
+              <text id="Liquido" transform="translate(16.094 7.61)" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Liquido</tspan></text>
+            </g>
+            <g id="Grupo_26" data-name="Grupo 26" transform="translate(405.249 2.785)">
+              <rect id="Retângulo_50" data-name="Retângulo 50" width="11" height="7" transform="translate(-0.358 1.61)" fill="#f0691b"/>
+              <text id="Bruto" transform="translate(16.642 7.61)" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Bruto</tspan></text>
+            </g>
+            <text id="Receita-2" data-name="Receita" transform="translate(-0.109 12.395)" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Receita</tspan></text>
+          </g>
+        </g>
+        <g id="Visão_geral" data-name="Visão geral" transform="translate(97.483 68.934)">
+          <text id="Visão_geral-2" data-name="Visão geral" transform="translate(-0.483 16.344)" font-size="17" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Visão geral</tspan></text>
+          <g id="Grupo_28" data-name="Grupo 28" transform="translate(0 28.549)">
+            <rect id="Retângulo_48" data-name="Retângulo 48" width="146" height="6" transform="translate(-0.483 -0.204)" fill="#c5c5c5"/>
+            <rect id="Retângulo_54" data-name="Retângulo 54" width="72" height="6" transform="translate(-0.483 8.796)" fill="#c5c5c5"/>
+          </g>
+        </g>
+        <g id="Grupo_34" data-name="Grupo 34" transform="translate(124.161 149.009)">
+          <g id="Grupo_31" data-name="Grupo 31" transform="translate(41.927 32.224)">
+            <g id="Grupo_29" data-name="Grupo 29" transform="translate(0 0)">
+              <path id="Caminho_15" data-name="Caminho 15" d="M141.451,164.333a74.933,74.933,0,0,1-15-1.512,73.992,73.992,0,0,1-26.608-11.2c-1.952-1.319-3.869-2.752-5.7-4.259l19.193-23.788a43.862,43.862,0,1,0,28.11-77.527c-1.362,0-2.737.064-4.087.189V15.619c1.36-.074,2.735-.111,4.087-.111a74.971,74.971,0,0,1,15,1.512,74.019,74.019,0,0,1,26.608,11.2,74.634,74.634,0,0,1,26.96,32.739,74.037,74.037,0,0,1,4.336,13.968,75.135,75.135,0,0,1,0,29.994,73.993,73.993,0,0,1-11.2,26.608,74.636,74.636,0,0,1-32.739,26.96,74.045,74.045,0,0,1-13.967,4.336A74.936,74.936,0,0,1,141.451,164.333Z" transform="translate(-75.369 -15.508)" fill="#616cff"/>
+              <path id="Caminho_18" data-name="Caminho 18" d="M54.353,156.759a70.067,70.067,0,0,1-15-22.241,69.587,69.587,0,0,1-4.077-13.134,70.66,70.66,0,0,1,0-28.2,69.571,69.571,0,0,1,2.579-9.273l14.5,4.059a54.935,54.935,0,0,0,14.854,60.286L58.4,160.5Q56.3,158.709,54.353,156.759Z" transform="translate(-33.859 -34.536)" fill="#e27d24"/>
+            </g>
+            <g id="Grupo_30" data-name="Grupo 30" transform="translate(39.322 65.258)">
+              <rect id="Retângulo_55" data-name="Retângulo 55" width="33" height="14" transform="translate(7.59 -0.214)" fill="#818181"/>
+              <rect id="Retângulo_56" data-name="Retângulo 56" width="51" height="7" transform="translate(-0.41 17.786)" fill="#d9d9d9"/>
+            </g>
+          </g>
+          <g id="Grupo_32" data-name="Grupo 32" transform="translate(0.477 227.692)">
+            <rect id="Retângulo_49-2" data-name="Retângulo 49" width="10" height="8" transform="translate(0.362 -0.423)" fill="#575dd5"/>
+            <path id="Caminho_19" data-name="Caminho 19" d="M0,0H51.24V6.671H0Z" transform="translate(24.79 1.108)" fill="#d8d8d8"/>
+          </g>
+          <g id="Grupo_33" data-name="Grupo 33" transform="translate(0.477 253.455)">
+            <rect id="Retângulo_50-2" data-name="Retângulo 50" width="10" height="8" transform="translate(0.362 -0.186)" fill="#f0691b"/>
+            <rect id="Retângulo_57" data-name="Retângulo 57" width="68" height="7" transform="translate(25.362 0.814)" fill="#bebebe"/>
+          </g>
+          <line id="Linha_6" data-name="Linha 6" x2="227.68" transform="translate(0 201.874)" fill="none" stroke="#d9d9d9" stroke-width="3"/>
+          <g id="Grupo_35" data-name="Grupo 35" transform="translate(218.421 0)">
+            <circle id="Elipse_2" data-name="Elipse 2" cx="6.5" cy="6.5" r="6.5" transform="translate(0.418 0.269)" fill="#e9e9e9"/>
+            <text id="_" data-name="?" transform="translate(4.418 11.269)" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">?</tspan></text>
+          </g>
+        </g>
+        <g id="Grupo_48" data-name="Grupo 48" transform="translate(373.219 460.258)">
+          <rect id="Retângulo_45" data-name="Retângulo 45" width="163" height="76" transform="translate(-0.219 0.021)" fill="#fff"/>
+          <g id="Grupo_46" data-name="Grupo 46" transform="translate(21.586 25.067)">
+            <rect id="Retângulo_61" data-name="Retângulo 61" width="24" height="13" transform="translate(0.195 -0.046)" fill="#646464"/>
+            <rect id="Retângulo_62" data-name="Retângulo 62" width="53" height="7" transform="translate(0.195 16.954)" fill="#c1c1c1"/>
+          </g>
+          <g id="Grupo_47" data-name="Grupo 47" transform="translate(91.216 18.104)">
+            <rect id="Retângulo_63" data-name="Retângulo 63" width="3" height="7" transform="translate(-0.436 23.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-2" data-name="Retângulo 63" width="2" height="11" transform="translate(4.564 19.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-3" data-name="Retângulo 63" width="2" height="23" transform="translate(9.564 7.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-4" data-name="Retângulo 63" width="3" height="11" transform="translate(14.564 19.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-5" data-name="Retângulo 63" width="2" height="16" transform="translate(20.564 14.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-6" data-name="Retângulo 63" width="2" height="31" transform="translate(25.564 -0.083)" fill="#e27d24"/>
+            <rect id="Retângulo_63-7" data-name="Retângulo 63" width="2" height="11" transform="translate(29.564 19.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-8" data-name="Retângulo 63" width="2" height="15" transform="translate(34.564 15.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-9" data-name="Retângulo 63" width="2" height="19" transform="translate(39.564 11.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-10" data-name="Retângulo 63" width="3" height="11" transform="translate(44.564 19.917)" fill="#e27d24"/>
+            <rect id="Retângulo_63-11" data-name="Retângulo 63" width="2" height="23" transform="translate(50.564 7.917)" fill="#e27d24"/>
+          </g>
+        </g>
+        <g id="Grupo_49" data-name="Grupo 49" transform="translate(541.725 460.258)">
+          <rect id="Retângulo_45-2" data-name="Retângulo 45" width="162" height="76" transform="translate(0.275 0.021)" fill="#fff"/>
+          <g id="Grupo_46-2" data-name="Grupo 46" transform="translate(21.586 25.763)">
+            <rect id="Retângulo_61-2" data-name="Retângulo 61" width="32" height="12" transform="translate(-0.311 0.258)" fill="#646464"/>
+            <rect id="Retângulo_62-2" data-name="Retângulo 62" width="50" height="7" transform="translate(-0.311 16.258)" fill="#c1c1c1"/>
+          </g>
+          <g id="Grupo_47-2" data-name="Grupo 47" transform="translate(90.52 18.104)">
+            <rect id="Retângulo_63-12" data-name="Retângulo 63" width="3" height="7" transform="translate(-0.245 23.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-13" data-name="Retângulo 63" width="2" height="11" transform="translate(5.755 19.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-14" data-name="Retângulo 63" width="2" height="23" transform="translate(10.755 7.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-15" data-name="Retângulo 63" width="2" height="11" transform="translate(15.755 19.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-16" data-name="Retângulo 63" width="3" height="16" transform="translate(19.755 14.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-17" data-name="Retângulo 63" width="3" height="31" transform="translate(24.755 -0.083)" fill="#394cf9"/>
+            <rect id="Retângulo_63-18" data-name="Retângulo 63" width="2" height="11" transform="translate(30.755 19.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-19" data-name="Retângulo 63" width="2" height="15" transform="translate(35.755 15.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-20" data-name="Retângulo 63" width="2" height="19" transform="translate(40.755 11.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-21" data-name="Retângulo 63" width="2" height="11" transform="translate(45.755 19.917)" fill="#394cf9"/>
+            <rect id="Retângulo_63-22" data-name="Retângulo 63" width="2" height="23" transform="translate(49.755 7.917)" fill="#394cf9"/>
+          </g>
+        </g>
+        <g id="Grupo_51" data-name="Grupo 51" transform="translate(97.483 460.258)">
+          <rect id="Retângulo_44" data-name="Retângulo 44" width="267" height="76" transform="translate(-0.483 0.021)" fill="#394cf9"/>
+          <g id="Grupo_50" data-name="Grupo 50" transform="translate(26.46 16.015)">
+            <rect id="Retângulo_64" data-name="Retângulo 64" width="102" height="12" transform="translate(0.058 0.006)" fill="#f9f9f9"/>
+            <rect id="Retângulo_65" data-name="Retângulo 65" width="125" height="12" transform="translate(0.058 16.006)" fill="#f9f9f9"/>
+            <rect id="Retângulo_66" data-name="Retângulo 66" width="89" height="12" transform="translate(0.058 32.006)" fill="#f9f9f9"/>
+          </g>
+        </g>
+      </g>
+      <g id="UI_Planejamento" data-name="UI Planejamento" transform="translate(1069.915 299.085)">
+        <g id="Dashboard" transform="translate(0 0)">
+          <g id="Panel" transform="translate(0 0)">
+            <g id="BG-2" data-name="BG">
+              <g transform="matrix(1, 0, 0, 1, -1277.92, -484.56)" filter="url(#Caminho_2)">
+                <path id="Caminho_2-2" data-name="Caminho 2" d="M11.065,0H822.009a11.065,11.065,0,0,1,11.065,11.065V522.737A11.065,11.065,0,0,1,822.009,533.8H11.065A11.065,11.065,0,0,1,0,522.737V11.065A11.065,11.065,0,0,1,11.065,0Z" transform="translate(1277.92 485.86)" fill="#fff"/>
+              </g>
+              <path id="Retângulo_16" data-name="Retângulo 16" d="M0,0H495.695a32,32,0,0,1,32,32V499.683a32,32,0,0,1-32,32H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(306.118 3.294)" fill="#f6f6f9"/>
+              <g id="Repetição_de_grade_2" data-name="Repetição de grade 2" transform="translate(325.073 70.801)" clip-path="url(#clip-path-4)">
+                <g transform="translate(-822.59 -335.146)">
+                  <path id="Caminho_1" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+                <g transform="translate(-729.59 -335.146)">
+                  <path id="Caminho_1-2" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12-2" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+                <g transform="translate(-636.59 -335.146)">
+                  <path id="Caminho_1-3" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12-3" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+                <g transform="translate(-543.59 -335.146)">
+                  <path id="Caminho_1-4" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12-4" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+                <g transform="translate(-450.59 -335.146)">
+                  <path id="Caminho_1-5" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12-5" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+                <g transform="translate(-357.59 -335.146)">
+                  <path id="Caminho_1-6" data-name="Caminho 1" d="M13.316.15l-1.649,1174.9" transform="translate(845.831 334.997)" fill="none" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="7"/>
+                  <text id="_12-6" data-name="12" transform="matrix(1, -0.017, 0.017, 1, 822.782, 356.819)" fill="#bbb" font-size="11" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                </g>
+              </g>
+              <line id="Linha_2" data-name="Linha 2" y2="538.239" transform="translate(64.809)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+            </g>
+            <g id="_2" data-name="+" transform="translate(245.947 40.545)">
+              <g transform="matrix(1, 0, 0, 1, -1523.86, -525.11)" filter="url(#Retângulo_14)">
+                <rect id="Retângulo_14-2" data-name="Retângulo 14" width="31.759" height="31.759" rx="13" transform="translate(1523.86 525.11)" fill="#2b65f0"/>
+              </g>
+              <text id="_3" data-name="+" transform="translate(12.078 18.926)" fill="#fff" font-size="15" font-family="Raleway-SemiBold, Raleway" font-weight="600"><tspan x="0" y="0">+</tspan></text>
+            </g>
+            <text id="Planejamento_Semanal" data-name="Planejamento
+Semanal" transform="translate(94.833 52.673)" font-size="12" font-family="CooperHewitt-Medium, Cooper Hewitt" font-weight="500"><tspan x="0" y="0">Planejamento</tspan><tspan x="0" y="13">Semanal</tspan></text>
+            <g id="Grupo_4" data-name="Grupo 4" transform="translate(86.19 89.333)">
+              <rect id="Retângulo_15" data-name="Retângulo 15" width="181.395" height="122.762" rx="23" transform="translate(8.836 12.567)" fill="#eff8f1"/>
+              <rect id="Retângulo_29" data-name="Retângulo 29" width="38" height="39" rx="19" transform="translate(-0.105 0.104)" fill="#47b857"/>
+            </g>
+            <g id="Grupo_6" data-name="Grupo 6" transform="translate(86.19 238.151)">
+              <rect id="Retângulo_18" data-name="Retângulo 18" width="181.395" height="122.762" rx="23" transform="translate(8.836 11.943)" fill="#ebf9fc"/>
+              <rect id="Retângulo_30" data-name="Retângulo 30" width="38" height="38" rx="19" transform="translate(-0.105 0.286)" fill="#50c4d9"/>
+            </g>
+            <g id="Grupo_5" data-name="Grupo 5" transform="translate(86.19 385.603)">
+              <rect id="Retângulo_19" data-name="Retângulo 19" width="181.395" height="122.762" rx="23" transform="translate(8.836 12.684)" fill="#f0ecfb"/>
+              <rect id="Retângulo_31" data-name="Retângulo 31" width="38" height="40" rx="19" transform="translate(-0.105 -0.167)" fill="#7747df"/>
+            </g>
+          </g>
+          <g id="Menu" transform="translate(17.925 30.625)">
+            <g id="Profile" transform="translate(4.096 454.645)">
+              <rect id="s" width="30" height="29" rx="13" transform="translate(0.065 0.167)" fill="url(#pattern)"/>
+              <g id="Elipse_1" data-name="Elipse 1" transform="translate(22.065 22.167)" fill="#ff5050" stroke="#fff" stroke-width="2">
+                <ellipse cx="4" cy="4.5" rx="4" ry="4.5" stroke="none"/>
+                <ellipse cx="4" cy="4.5" rx="5" ry="5.5" fill="none"/>
+              </g>
+            </g>
+            <g id="Uperttech_Logo-2" data-name="Uperttech Logo" transform="translate(0 0)">
+              <path id="União_1-2" data-name="União 1" d="M15.564,18a1.194,1.194,0,0,1-1.184-1.2V12.955a1.219,1.219,0,0,1,.081-.437l-1.342-1.364a1.165,1.165,0,0,1-.43.082h-1.41a1.194,1.194,0,0,1-1.184-1.2V8.771a1.194,1.194,0,0,1,1.184-1.2h1.41a1.194,1.194,0,0,1,1.184,1.2v1.261a1.225,1.225,0,0,1-.03.269L15.3,11.782a1.17,1.17,0,0,1,.265-.03h5.019a1.169,1.169,0,0,1,.3.038l1.715-1.744a1.227,1.227,0,0,1-.037-.3v-3.9a1.194,1.194,0,0,1,1.184-1.2h5.075A1.194,1.194,0,0,1,30,5.847v3.9a1.194,1.194,0,0,1-1.184,1.2H23.741a1.166,1.166,0,0,1-.4-.071L21.7,12.547a1.218,1.218,0,0,1,.07.409V16.8A1.194,1.194,0,0,1,20.583,18ZM24.7,16.853a1.194,1.194,0,0,1-1.184-1.2V13.242a1.194,1.194,0,0,1,1.184-1.2h2.2a1.194,1.194,0,0,1,1.184,1.2V15.65a1.194,1.194,0,0,1-1.184,1.2ZM1.184,13.185A1.194,1.194,0,0,1,0,11.981V8.14a1.194,1.194,0,0,1,1.184-1.2H6.26a1.168,1.168,0,0,1,.353.055L8.366,5.268a1.217,1.217,0,0,1-.02-.223V1.2A1.194,1.194,0,0,1,9.53,0h5.075a1.194,1.194,0,0,1,1.184,1.2V5.045a1.223,1.223,0,0,1-.073.417l1.185,1.2a1.164,1.164,0,0,1,.41-.074h1.41a1.194,1.194,0,0,1,1.184,1.2V9.057a1.194,1.194,0,0,1-1.184,1.2h-1.41a1.194,1.194,0,0,1-1.184-1.2V7.8a1.227,1.227,0,0,1,.035-.291L14.892,6.213a1.168,1.168,0,0,1-.286.035H9.53a1.164,1.164,0,0,1-.47-.1L7.392,7.788a1.223,1.223,0,0,1,.051.352v3.841a1.194,1.194,0,0,1-1.184,1.2ZM3.1,5.618a1.194,1.194,0,0,1-1.184-1.2V2.006A1.194,1.194,0,0,1,3.1.8H5.3a1.194,1.194,0,0,1,1.184,1.2V4.414A1.194,1.194,0,0,1,5.3,5.618Z" transform="translate(0.16 -0.188)" fill="#2b65f0"/>
+            </g>
+            <g id="Buttons" transform="translate(10.725 137.896)">
+              <g id="account_balance-24px" transform="translate(0.197 0)">
+                <g id="Grupo_14" data-name="Grupo 14" transform="translate(0 0)">
+                  <rect id="Retângulo_34" data-name="Retângulo 34" width="12" height="12" transform="translate(0.238 -0.084)" fill="none"/>
+                </g>
+                <g id="Grupo_16" data-name="Grupo 16" transform="translate(0.892 0.175)">
+                  <g id="Grupo_15" data-name="Grupo 15">
+                    <rect id="Retângulo_35" data-name="Retângulo 35" height="4" transform="translate(1.346 5.742)" fill="#292929"/>
+                    <rect id="Retângulo_36" data-name="Retângulo 36" width="1.635" height="3.814" transform="translate(4.631 4.904)" fill="#292929"/>
+                    <rect id="Retângulo_37" data-name="Retângulo 37" width="10" height="2" transform="translate(0.346 9.742)" fill="#292929"/>
+                    <rect id="Retângulo_38" data-name="Retângulo 38" width="3" height="4" transform="translate(7.346 5.742)" fill="#292929"/>
+                    <path id="Caminho_5" data-name="Caminho 5" d="M7.448,1,2,3.724v1.09H12.9V3.724Z" transform="translate(-2 -1)" fill="#292929"/>
+                  </g>
+                </g>
+              </g>
+              <g id="assignment_late-24px" transform="translate(0 62.464)">
+                <path id="Caminho_6" data-name="Caminho 6" d="M0,0H14.239V14.239H0Z" fill="none"/>
+                <path id="Caminho_7" data-name="Caminho 7" d="M12.493,2.187h-2.48a1.773,1.773,0,0,0-3.346,0H4.187A1.19,1.19,0,0,0,3,3.373v8.306a1.19,1.19,0,0,0,1.187,1.187h8.306a1.19,1.19,0,0,0,1.187-1.187V3.373A1.19,1.19,0,0,0,12.493,2.187Zm-3.56,8.9H7.746V9.9H8.933Zm0-2.373H7.746V5.153H8.933ZM8.34,3.373a.593.593,0,1,1,.593-.593A.6.6,0,0,1,8.34,3.373Z" transform="translate(-1.22 -0.407)" fill="#292929"/>
+              </g>
+              <g id="date_range-24px" transform="translate(0 126.483)">
+                <path id="Caminho_8" data-name="Caminho 8" d="M0,0H14.239V14.239H0Z" fill="none"/>
+                <path id="Caminho_9" data-name="Caminho 9" d="M6.56,7.34H5.373V8.526H6.56Zm2.373,0H7.746V8.526H8.933Zm2.373,0H10.12V8.526h1.187Zm1.187-4.153H11.9V2H10.713V3.187H5.967V2H4.78V3.187H4.187A1.181,1.181,0,0,0,3.006,4.373L3,12.679a1.186,1.186,0,0,0,1.187,1.187h8.306a1.19,1.19,0,0,0,1.187-1.187V4.373A1.19,1.19,0,0,0,12.493,3.187Zm0,9.493H4.187V6.153h8.306Z" transform="translate(-1.22 -0.813)" fill="#292929"/>
+              </g>
+              <g id="build_circle-24px" transform="translate(0.197 191.142)">
+                <g id="Grupo_17" data-name="Grupo 17" transform="translate(0 0)">
+                  <rect id="Retângulo_39" data-name="Retângulo 39" width="15" height="14" transform="translate(0.238 -0.226)" fill="none"/>
+                </g>
+                <g id="Grupo_19" data-name="Grupo 19" transform="translate(0.994 0.552)">
+                  <g id="Grupo_18" data-name="Grupo 18">
+                    <path id="Caminho_10" data-name="Caminho 10" d="M7.957,2a5.957,5.957,0,1,0,5.957,5.957A5.959,5.959,0,0,0,7.957,2Zm2.919,8.036-.834.834a.3.3,0,0,1-.423,0L7.588,8.839A2.061,2.061,0,0,1,5.08,5.914l1.4,1.4.84-.84L5.92,5.08A2.061,2.061,0,0,1,8.845,7.588l2.031,2.031A.3.3,0,0,1,10.876,10.036Z" transform="translate(-2 -2)" fill="#292929" fill-rule="evenodd"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Processos" transform="translate(325.117 124.831)">
+            <g id="Grupo_7" data-name="Grupo 7" transform="translate(0 0)">
+              <rect id="Retângulo_32" data-name="Retângulo 32" width="273" height="29" rx="14.5" transform="translate(-0.032 -0.394)" fill="#eff8f1"/>
+              <path id="Retângulo_33" data-name="Retângulo 33" d="M14.5,0H190a0,0,0,0,1,0,0V29a0,0,0,0,1,0,0H14.5A14.5,14.5,0,0,1,0,14.5v0A14.5,14.5,0,0,1,14.5,0Z" transform="translate(-0.032 -0.394)" fill="#47b857"/>
+            </g>
+            <g id="Grupo_8" data-name="Grupo 8" transform="translate(0 40.959)">
+              <rect id="Retângulo_32-2" data-name="Retângulo 32" width="126" height="28" rx="14" transform="translate(-0.032 -0.353)" fill="#47b857"/>
+            </g>
+            <g id="Grupo_9" data-name="Grupo 9" transform="translate(51.882 135.165)">
+              <rect id="Retângulo_32-3" data-name="Retângulo 32" width="557" height="28" rx="14" transform="translate(0.086 0.441)" fill="#ebf9fc"/>
+              <path id="Retângulo_33-2" data-name="Retângulo 33" d="M14,0H190a0,0,0,0,1,0,0V28a0,0,0,0,1,0,0H14A14,14,0,0,1,0,14v0A14,14,0,0,1,14,0Z" transform="translate(0.086 0.441)" fill="#50c4d9"/>
+            </g>
+            <g id="Grupo_10" data-name="Grupo 10" transform="translate(51.293 267.388)">
+              <path id="Caminho_3" data-name="Caminho 3" d="M5.928,0H550.885a5.928,5.928,0,0,1,5.928,5.928v16.2a5.928,5.928,0,0,1-5.928,5.928H5.928A5.928,5.928,0,0,1,0,22.13V5.928A5.928,5.928,0,0,1,5.928,0Z" transform="translate(0 0)" fill="#f0ecfb"/>
+              <path id="Caminho_4" data-name="Caminho 4" d="M5.928,0H190.083V28.058H5.928A5.928,5.928,0,0,1,0,22.13V5.928A5.928,5.928,0,0,1,5.928,0Z" transform="translate(0 0)" fill="#7747df"/>
+            </g>
+            <g id="Grupo_11" data-name="Grupo 11" transform="translate(51.293 307.302)">
+              <path id="Caminho_3-2" data-name="Caminho 3" d="M2.314,0h212.77c1.278,0,2.314,2.654,2.314,5.928v16.2c0,3.274-1.036,5.928-2.314,5.928H2.314C1.036,28.058,0,25.4,0,22.13V5.928C0,2.654,1.036,0,2.314,0Z" transform="translate(0 0)" fill="#f0ecfb"/>
+              <path id="Caminho_4-2" data-name="Caminho 4" d="M4.353,0H139.581V28.058H4.353C1.949,28.058,0,25.4,0,22.13V5.928C0,2.654,1.949,0,4.353,0Z" transform="translate(0 0)" fill="#7747df"/>
+            </g>
+            <g id="Grupo_12" data-name="Grupo 12" transform="translate(51.293 347.215)">
+              <path id="Caminho_3-3" data-name="Caminho 3" d="M2.1,0H194.808c1.158,0,2.1,2.654,2.1,5.928v16.2c0,3.274-.939,5.928-2.1,5.928H2.1C.939,28.058,0,25.4,0,22.13V5.928C0,2.654.939,0,2.1,0Z" transform="translate(0)" fill="#7747df"/>
+            </g>
+            <g id="Grupo_13" data-name="Grupo 13" transform="translate(51.882 176.124)">
+              <rect id="Retângulo_32-4" data-name="Retângulo 32" width="339" height="27" rx="13.5" transform="translate(0.086 0.482)" fill="#ebf9fc"/>
+              <path id="Retângulo_33-3" data-name="Retângulo 33" d="M13.5,0H274a0,0,0,0,1,0,0V27a0,0,0,0,1,0,0H13.5A13.5,13.5,0,0,1,0,13.5v0A13.5,13.5,0,0,1,13.5,0Z" transform="translate(0.086 0.482)" fill="#50c4d9"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

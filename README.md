@@ -1,44 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">Teste para candidatos à vaga de Estagiário em Desenvolvimento Front-end</h2>
 
-## Available Scripts
+Nesse teste analisaremos seu conhecimento nas tecnologias solicitadas, organização e agilidade de desenvolvimento, trabalhando em um projeto ReactJS com TypeScript.
 
-In the project directory, you can run:
+### Instruções
 
-### `yarn start`
+Este é um projeto ReactJS com TypeScript recém criado de um site da empresa. Você deverá organizá-lo conforme achar necessário. Nele, algumas informações sobre a empresa serão exibidas, além dos produtos que oferecemos.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O site consiste numa página principal, uma página de login/cadastro para utilização de uma área do cliente, e uma página de exibição dos produtos oferecidos.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+A equipe de desenvolvimento lhe passou o design da página principal para ser implementado. As demais, você deverá criar e implementar (mais detalhes na sessão [Tarefas](#tarefas)). As páginas criadas por você devem condizer com o design da página principal.
 
-### `yarn test`
+Como se trata de uma apliação utilizando TypeScript, os componentes criados por você deverão ter um nível básico de tipagem. Recomendamos o uso de apenas [componentes funcionais](https://pt-br.reactjs.org/docs/components-and-props.html#function-and-class-components).
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Recomendamos que você utilize alguma biblioteca de _CSS-in-JS_. Nossas recomendações são a [styled-components](https://styled-components.com/) e [stitches](https://stitches.dev/).
 
-### `yarn build`
+Para a navegação entre as páginas, você deve utilizar alguma biblioteca de _routing_. Recomendamos a [react-router-dom](https://reactrouter.com/web/guides/quick-start).
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Critérios avaliados
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Organização do projeto
+- Capacidade de representar determinado design através de css e html
+- Legibilidade, padronização e organização do código
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tarefas
 
-### `yarn eject`
+- [ ] Implementar o design da página principal
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  - Escolher um dos designs previamente fornecidos em [pagina-principal.md](./docs/pagina-principal.md). Todos os assets necessários já estão na pasta `public`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ ] Criar a página de login/cadastro
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  - Você deve criar apenas uma página para ambos, diferenciando as ações de login e cadastro na própia página.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [ ] Criar a página de exibição de produtos
+  - A Uperttech vende produtos em software. Você pode utilizar imagens de bancos de imagens gratuitos para ilustrar os produtos. Recomendamos o [unDraw](https://undraw.co/) e o [Freepik](http://freepik.com/)
 
-## Learn More
+### Entrega
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Você deverá criar um fork desse repositório, desenvolver as funcionalidades propostas e submetê-lo através do e-mail contato@uperttech.com.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Dúvidas
+
+Quaisquer dúvidas que você venha a ter podem ser submetidas nas issues do repositório ou via e-mail (contato@uperttech.com). Consulte as issues para ver se alguém já não teve a mesma dúvida.
